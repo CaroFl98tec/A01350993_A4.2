@@ -1,0 +1,56 @@
+File: TC1.txt
+Mean: 241.91228070175438
+Median: 239.0
+Mode: 393.0
+Variance: 21086.30558853275
+Standard Deviation: 145.21124470416453
+Execution Time (seconds): 0.0008499622344970703
+----------------------------------------
+File: TC2.txt
+Mean: 250.7840161861406
+Median: 247.0
+Mode: 230.0
+Variance: 20785.369132479238
+Standard Deviation: 144.17131868884059
+Execution Time (seconds): 0.0019309520721435547
+----------------------------------------
+File: TC3.txt
+Mean: 249.77621989860583
+Median: 249.0
+Mode: 94.0
+Variance: 21117.27747316329
+Standard Deviation: 145.31784980917962
+Execution Time (seconds): 0.0073130130767822266
+----------------------------------------
+File: TC4.txt
+Mean: 149.00267347908746
+Median: 147.75
+Mode: 123.75
+Variance: 17007.920843018837
+Standard Deviation: 130.41441961308894
+Execution Time (seconds): 0.012583017349243164
+----------------------------------------
+File: TC5.txt
+Mean: 241.49511400651465
+Median: 241.0
+Mode: 393.0
+Variance: 21160.021963097748
+Standard Deviation: 145.46484786056646
+Execution Time (seconds): 0.013153076171875
+----------------------------------------
+File: TC6.txt
+Mean: 1.8790659927977473e+20
+Median: 1.88008049965543e+20
+Mode: 1.27620004531949e+20
+Variance: 1.1530904699530647e+40
+Standard Deviation: 1.0738205017381e+20
+Execution Time (seconds): 0.015015840530395508
+----------------------------------------
+File: TC7.txt
+Mean: 2.474673954997149e+20
+Median: 2.4664097307429e+20
+Mode: 1.57638329490099e+20
+Variance: 2.0910793147136484e+40
+Standard Deviation: 1.4460564700984703e+20
+Execution Time (seconds): 0.022217988967895508
+----------------------------------------
